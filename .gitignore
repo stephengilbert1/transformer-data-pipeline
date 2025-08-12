@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files (avoid pushing sensitive CSVs)
+data/*.csv
+
+# Generated outputs
+outputs/*.csv
+outputs/*.png
+outputs/*.svg
+outputs/*.html
+
+# Logs
+*.log
