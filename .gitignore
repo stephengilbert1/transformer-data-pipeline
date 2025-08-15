@@ -27,3 +27,8 @@ outputs/*.html
 
 # Logs
 *.log
+.venv/
+.env
+outputs/*.json
+outputs/*.png
+outputs/*.svg
