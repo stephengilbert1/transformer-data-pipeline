@@ -23,7 +23,7 @@ data/*.csv
 outputs/*.csv
 outputs/*.png
 outputs/*.svg
-outputs/*.html
+# outputs/*.html
 
 # Logs
 *.log
